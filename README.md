@@ -14,5 +14,15 @@ vue2.0购物车组件开发
 购物车页面：
 ![](https://github.com/wxiaojia/shoppingCar/blob/master/img/shoppingCar.png)  
 1、点击全选或某些商品，下方结账金额会根据选择的商品发生改变;
-2、点击个数，金额也能够根据商品个数进行计算
-3、删除商品：点击删除，对应商品将在此购物车中去除
+
+2、点击个数，金额也能够根据商品个数进行计算;
+
+3、删除商品：点击删除，对应商品将在此购物车中去除;
+
+地址页面：
+![](https://github.com/wxiaojia/shoppingCar/blob/master/img/address.png)
+1、点击more:展示更多地址信息
+
+2、添加地址：会弹出框填写相关信息;
+
+3、可设置哪个地址为默认地址或对地址进行修改。
